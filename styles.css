@@ -1,0 +1,53 @@
+
+body{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.LtlhHZGQ6NMiT3m-PYjK0gHaCs%26pid%3DApi&f=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    align-items: left;
+    
+    height: max-content;
+}
+
+.content sub{
+    font-size: 10px;
+}
+/* sub{
+    font-size: 15px;
+    text-align:left;
+    color:rgb(255,238,238);
+} */
+
+.subtitle {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px; text-align:left; color:rgb(255,238,238);
+}
+#heading {
+    font-family:"McLaren" ;
+    background-color:rgba(41, 38, 38, 0.932);
+    color:rgb(255, 238, 238);
+    text-indent: 30px;
+    font-size:60px;
+    margin-bottom: 10px;
+    height: 100px;
+}
+
+.section{
+    font-weight:bold;
+    font-size: 35px;
+}
+
+.content{
+    font-size: 20px;
+    padding:-10px;
+}
+
+div sub{
+    font-size: 11px;
+}
+body hr{
+    /* height:1px; */
+    color: black
+}
